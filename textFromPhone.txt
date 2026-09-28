@@ -1,0 +1,41 @@
+ saliva 
+- action understanding 
+- bb
+- second order correlation 
+
+Title: Associative learning
+A question that developmental cognitive scientists have long wrestled with concerns t nature and origins of early knowledge. One of two stances have traditionally been taken on this question. These mechanisms are thought to have evolved because they. In contrast, DS. Examples of such mechanisms include those for reasoning about number, objects, physics, and agents, and causality 
+
+This is still a very much active debate, and the goal of this chapter is not to settle it. The goal is a much narrower one: I will is to make the case that the power of one particular kind of domain general learning mechanism—associative learning—has not, at least untio recently with the rise of LLMs, been properly considered. I will make this case through 4 case studies. Each one given short shrift in discussions; 
+
+Four case studies will be used to make that case. 
+
+
+ What is the nature and origins of knowlede? This is a question that can be traced back to the early Western philosophers Aristotle and Plato. The position that
+
+
+The formal study of associative learning can be traced back to the early pioneering work of X, starting in the 19XXs. Although  the Little Albert Experiment was the first time that associative learning became a focus of study in the field of developmental psychology, it was not until X that researcherls began to study and take serously it's role in cognitive development t. This early work demlnstrated that associative learning can be used to learn about geometric angles, 
+
+Although many different definitions and formal models of associative learning have been offered over the years, broadly speaking speaking associative learning falls into two classes: classical conditioning and operation conditioning. Classical conditionining refers to X. Operation conditioning refers to Y. One of the limitations of these "classic" forms of associative learning is that direct associations between inputs to the system (e.g., present tense of a verb; cite mclelland and Rumelhart) and it's outputs (e.g., past tense of a verb) in both kinds of learning. A corollary of this is that neither form of learning can solve so-called linearly inseparable problems.  A problem is linearly separable if inputs that require one kind of output (e.g., regular verbs requiring an -ed past-tense inflection) are treated differently than inputs requiring a different kind of output (e.g., irregular verbs requiring idiosyncratic past-tense inflections). A problem is linearly inseparble . The Exclusive-OR problem is perhaps the most well-known example of this. What makes this problem insurmountable for classic input-output forms of associative learning is that maximally dissimilar inputs require similar outputs, whereas inputs that are more similar in their representation requires maximally distinct outputs. Although it was recognized early on that internal "hidden" representations would be needed to solving such problems, it took a further X years for an algorithm—backpropogation—to be discovered that makes separable otherwise linearly inseparable problems. This latter definition of associative learning is the one I adopted in this chapter not least because it overcomes the limitations of earlier forms and features prominently in contemporary theories that posi associative learning as a key driver of cognitive development. 
+
+
+ representations specifically is that they can make separable linearly inseparable problems. Although each of these conceptions of associative learning different in their specifics, they share one commonality: Associative learning is the process
+
+This severe limitation ultimately led to the realization that solving linearly separable problems requires the introduction of hidden representations.  that the system possess one (or more) internal repesentations. The power of such intermediate representations is that inputs requiring similar outputs can be made more similar in their internal repesentations wheeeas inputs requiring dissimilar outputs can be made to be more dissimilar in their outputs. 
+
+
+
+isrepresentations allowMore modern definitions and of models of associative learning therefore 
+
+
+The kind of associative learning that will be the focus on this chapter is of the classical conditioning variety.
+
+ 
+Broadly, associative learning refers to the process by which 
+
+Case study 1: How infants discover the causal properties of people and objects 
+
+
+iji
+
+I'm
